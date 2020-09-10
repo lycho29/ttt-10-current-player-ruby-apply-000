@@ -1,3 +1,4 @@
-def turn_count(board)
-  board = 
+def turn_count(position)
+  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  if position
 end
