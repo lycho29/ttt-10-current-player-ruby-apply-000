@@ -1,4 +1,5 @@
 def turn_count(position)
-  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  if position
+  turns = 0
+  if 
+    turns += 1
 end
